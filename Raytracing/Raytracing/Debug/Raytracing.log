@@ -1,0 +1,14 @@
+﻿  hitable.cpp
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  hitableList.cpp
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\hitableList.cpp(9,35): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  main.cpp
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(15,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(16,15): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(16,66): warning C4305: 'argument' : troncation de 'double' à 'float'
+  sphere.cpp
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+  Raytracing.vcxproj -> C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Debug\Raytracing.exe
