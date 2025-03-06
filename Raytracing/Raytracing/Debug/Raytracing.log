@@ -3,12 +3,32 @@ C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36
   hitableList.cpp
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\hitableList.cpp(9,35): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  lambertian.cpp
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,44): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,33): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,22): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
   main.cpp
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(15,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(16,15): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(16,66): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,44): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,33): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,22): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(20,5): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(33,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(34,15): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(34,66): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(50,75): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(51,83): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(52,78): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(53,79): warning C4305: 'argument' : troncation de 'double' à 'float'
+  metal.cpp
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,44): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,33): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,22): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
   sphere.cpp
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
   Génération de code en cours...
-  Raytracing.vcxproj -> C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Debug\Raytracing.exe
+main.obj : error LNK2005: "class vec3 __cdecl random_in_unit_sphere(class std::mersenne_twister_engine<unsigned __int64,64,312,156,31,-5403634167711393303,29,6148914691236517205,17,8202884508482404352,37,-2270628950310912,43,6364136223846793005> &,class std::uniform_real_distribution<double> &)" (?random_in_unit_sphere@@YA?AVvec3@@AAV?$mersenne_twister_engine@_K$0EA@$0BDI@$0JM@$0BP@$0?EKPNJAKFFGJJOGBH@$0BN@$0FFFFFFFFFFFFFFFF@$0BB@$0HBNGHPPPONKGAAAA@$0CF@$0?IBBCAAAAAAAAA@$0CL@$0FIFBPECNEMJFHPCN@@std@@AAV?$uniform_real_distribution@N@3@@Z) déjà défini(e) dans lambertian.obj
+metal.obj : error LNK2005: "class vec3 __cdecl random_in_unit_sphere(class std::mersenne_twister_engine<unsigned __int64,64,312,156,31,-5403634167711393303,29,6148914691236517205,17,8202884508482404352,37,-2270628950310912,43,6364136223846793005> &,class std::uniform_real_distribution<double> &)" (?random_in_unit_sphere@@YA?AVvec3@@AAV?$mersenne_twister_engine@_K$0EA@$0BDI@$0JM@$0BP@$0?EKPNJAKFFGJJOGBH@$0BN@$0FFFFFFFFFFFFFFFF@$0BB@$0HBNGHPPPONKGAAAA@$0CF@$0?IBBCAAAAAAAAA@$0CL@$0FIFBPECNEMJFHPCN@@std@@AAV?$uniform_real_distribution@N@3@@Z) déjà défini(e) dans lambertian.obj
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Debug\Raytracing.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
