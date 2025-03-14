@@ -11,4 +11,5 @@ C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(51,83): warning C4305: 'argument' : troncation de 'double' à 'float'
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(52,73): warning C4305: 'argument' : troncation de 'double' à 'float'
 C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(53,74): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(53,80): warning C4305: 'argument' : troncation de 'double' à 'float'
   Raytracing.vcxproj -> C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Debug\Raytracing.exe
