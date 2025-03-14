@@ -26,6 +26,14 @@
 *.a
 *.lib
 
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
 # Executables
 *.exe
 *.out
