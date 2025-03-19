@@ -1,15 +1,32 @@
 ﻿  main.cpp
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,47): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,36): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\material.h(13,25): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(20,5): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(33,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(34,15): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(34,66): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(50,75): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(51,83): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(52,73): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(53,74): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Raytracing\main.cpp(53,80): warning C4305: 'argument' : troncation de 'double' à 'float'
-  Raytracing.vcxproj -> C:\Users\Eleve\source\Semestre2\COARV\Raytracing\Raytracing\Debug\Raytracing.exe
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\vec3.h(36,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\camera.h(12,34): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\camera.h(12,23): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\material.h(16,47): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\material.h(16,36): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\material.h(16,25): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\dielectric.h(23,23): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\dielectric.h(43,34): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(20,5): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(33,11): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(34,15): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(34,66): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(70,22): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(71,45): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(71,62): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(71,19): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(72,8): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(74,119): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(74,96): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(74,73): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(74,133): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(78,73): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(78,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(78,27): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(78,97): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(78,110): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(81,63): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(86,64): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(88,80): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Raytracing\main.cpp(88,156): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Raytracing.vcxproj -> C:\Users\Eleve\source\repos\ModRV\Raytracing\Raytracing\Debug\Raytracing.exe

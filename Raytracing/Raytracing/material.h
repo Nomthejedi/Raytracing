@@ -7,6 +7,9 @@ class material {
 public :
 	virtual bool scatter(const ray& r_in, const hit_record& rec, vec3& attenuation, ray& scattered, std::mt19937_64& rng, std::uniform_real_distribution<double>& unif) const = 0;
 protected :
+	vec3 reflect(const vec3& v, const vec3& n)  const {
+		return v - 2 * dot(v, n) * n;
+	}
 	vec3 randomInUnitSphere(std::mt19937_64& rng, std::uniform_real_distribution<double>& unif) const {
 		vec3 res;
 		do {
